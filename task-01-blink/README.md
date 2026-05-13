@@ -8,3 +8,4 @@ Built as part of my Embedded Systems Club at FUTA and personal learning.
 
 Wokwi Link --> https://wokwi.com/projects/463859933999436801
 
+![Wokwi simulation screenshot](./wokwi-screenshot.png)
